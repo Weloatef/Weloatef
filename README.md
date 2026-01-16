@@ -17,7 +17,7 @@ Computer vision–based system for behavior/activity detection with real-time in
 
 ### 📊 Predictive Modeling & Data Analysis
 Machine learning workflow covering data preprocessing, feature engineering, and model evaluation.  
-🔗 https://github.com/Weloatef/ml-predictive-modeling
+🔗 https://github.com/Weloatef/MLPredictiveModeling
 
 ### ⚙️ Deadlock Avoidance System — Banker’s Algorithm
 Operating systems simulation for safe resource allocation and deadlock prevention.  

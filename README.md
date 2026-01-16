@@ -25,7 +25,7 @@ Operating systems simulation for safe resource allocation and deadlock preventio
 
 ### 📱 Gym Management System — Android App
 Android-based application with Firebase backend for gym operations management.  
-🔗 https://github.com/Weloatef/gym-management-system
+🔗 https://github.com/Weloatef/GymManagmentSystem
 
 ## 🧰 Tech Stack
 - **Languages:** Python, Java, SQL  

@@ -6,19 +6,26 @@
 
 ## 🎯 Focus Areas
 - 🤖 Machine Learning & Deep Learning  
-- 👁️ Computer Vision for monitoring and detection systems  
+- 👁️ Computer Vision for monitoring & detection systems  
 - 🛡️ AI-driven cybersecurity use cases  
-- ⚙️ Model evaluation and API-based deployment concepts  
+- ⚙️ Model evaluation & API-based deployment (Flask / FastAPI)  
 
-## 📁 Academic & Applied Projects
-I have worked on multiple AI, ML, and systems projects through academic coursework and technical training, including:
-- AI-powered monitoring & detection systems  
-- Predictive modeling and data analysis  
-- Deadlock avoidance simulation (Banker’s Algorithm)  
-- Android-based management applications  
-- Embedded systems and Arduino projects  
+## 📁 Featured Projects
+### 🤖 AI-Powered Monitoring & Detection System
+Computer vision–based system for behavior/activity detection with real-time inference and API-based deployment.  
+🔗 https://github.com/Weloatef/SecureCampus
 
-_Selected projects and technical write-ups will be added progressively._
+### 📊 Predictive Modeling & Data Analysis
+Machine learning workflow covering data preprocessing, feature engineering, and model evaluation.  
+🔗 https://github.com/Weloatef/ml-predictive-modeling
+
+### ⚙️ Deadlock Avoidance System — Banker’s Algorithm
+Operating systems simulation for safe resource allocation and deadlock prevention.  
+🔗 https://github.com/Weloatef/bankers-algorithm-python
+
+### 📱 Gym Management System — Android App
+Android-based application with Firebase backend for gym operations management.  
+🔗 https://github.com/Weloatef/gym-management-system
 
 ## 🧰 Tech Stack
 - **Languages:** Python, Java, SQL  

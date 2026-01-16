@@ -21,7 +21,7 @@ Machine learning workflow covering data preprocessing, feature engineering, and 
 
 ### ⚙️ Deadlock Avoidance System — Banker’s Algorithm
 Operating systems simulation for safe resource allocation and deadlock prevention.  
-🔗 https://github.com/Weloatef/bankers-algorithm-python
+🔗 https://github.com/Weloatef/BankersAlgorithmWithGUI
 
 ### 📱 Gym Management System — Android App
 Android-based application with Firebase backend for gym operations management.  

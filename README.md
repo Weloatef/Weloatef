@@ -1,6 +1,6 @@
 # Walid Atef 👋
 
-🧠 **AI & Machine Learning Engineer** with hands-on experience building intelligent systems across computer vision, data analysis, and security-aware applications.
+🧠 **AI & Computer Vision Engineer** with hands-on experience building intelligent systems across computer vision, data analysis, and security-aware applications.
 
 🤖 Currently training in the **AI Cybersecurity Engineering track** at the **National Telecommunication Institute (NTI)** through a hire-ready program focused on applying AI to cybersecurity challenges.
 

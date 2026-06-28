@@ -15,7 +15,7 @@
 ## 📁 Featured Projects
 ### 🛡️ AI-Integrated SOC Mini-Lab — Security Operations Center Automation
 Virtualized SOC environment integrating SIEM, IDS/IPS, honeypot, and SOAR automation for real-time threat detection and incident response.
-Built using **Wazuh, Snort, T-Pot, Sysmon, and Shuffle SOAR** with automated threat enrichment and response workflows.
+Built using **Wazuh, Snort, T-Pot, Sysmon, and Shuffle SOAR** with automated threat enrichment and response workflows.  
 🔗 https://github.com/Weloatef/SOC-monitoring-lab
 
 ### 🤖 AI-Powered Monitoring & Detection System
@@ -23,7 +23,7 @@ Computer vision–based system for behavior/activity detection with real-time in
 🔗 https://github.com/Weloatef/SecureCampus
 
 ### ♻️ Recycle Bank — AI FinTech Sustainability Platform
-Mobile FinTech platform combining AI assistance, digital credits, and reward systems to incentivize sustainable recycling behavior.
+Mobile FinTech platform combining AI assistance, digital credits, and reward systems to incentivize sustainable recycling behavior.  
 🔗 https://github.com/Weloatef/RecycleBank
 
 ### 📊 Predictive Modeling & Data Analysis

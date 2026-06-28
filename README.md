@@ -7,7 +7,8 @@
 ## 🎯 Focus Areas
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision for monitoring & detection systems
-- 🛡️ AI-driven Cybersecurity & Threat Detection
+- 🛡️ AI-driven cybersecurity & intelligent automation
+- 💳 AI-powered FinTech applications
 - ⚙️ AI Model Deployment & Automation (FastAPI / Flask / Docker)
 - 🔐 SOC Operations, SIEM & Incident Response Automation
 
@@ -20,6 +21,10 @@ Built using **Wazuh, Snort, T-Pot, Sysmon, and Shuffle SOAR** with automated thr
 ### 🤖 AI-Powered Monitoring & Detection System
 Computer vision–based system for behavior/activity detection with real-time inference and API-based deployment.  
 🔗 https://github.com/Weloatef/SecureCampus
+
+### ♻️ Recycle Bank — AI FinTech Sustainability Platform
+Mobile FinTech platform combining AI assistance, digital credits, and reward systems to incentivize sustainable recycling behavior.
+🔗 https://github.com/Weloatef/RecycleBank
 
 ### 📊 Predictive Modeling & Data Analysis
 Machine learning workflow covering data preprocessing, feature engineering, and model evaluation.  
